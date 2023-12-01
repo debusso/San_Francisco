@@ -1,2 +1,2 @@
-# San_Francisco
-Estacion Termica San Francisco
+# Estacion Transformadora
+Estacion Transformadora
